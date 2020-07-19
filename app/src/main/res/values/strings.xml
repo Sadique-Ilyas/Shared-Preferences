@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+
+    <string name="user_name">Sadique</string>
+    <string name="user_password">Sadique123</string>
+
+    <string name="login_preferences">com.example.sharedpreferencesexample_login_preferences</string>
+    <string name="login_status_preferences">com.example.sharedpreferencesexample_login_status_preferences</string>
+</resources>
